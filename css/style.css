@@ -566,47 +566,47 @@ body {
 	width: 30px;
 }
 
-#arrows div.disabled {
+#arrows div{
 	cursor: default;
 }
 
-#arrow-up {
+#arrow-up{
 	background-position: 30px 0;
 	left: 25px;
 	top: 0;
 }
 
-#arrow-up.disabled {
+#arrow-up{
 	background-position: 0 0;
 }
 
-#arrow-down {
+#arrow-down{
 	background-position: 30px -30px;
 	left: 25px;
 	bottom: 0;
 }
 
-#arrow-down.disabled {
+#arrow-down{
 	background-position: 0 -30px;
 }
 
-#arrow-left {
+#arrow-left{
 	background-position: 30px -60px;
 	left: 0;
 	top: 25px;
 }
 
-#arrow-left.disabled {
+#arrow-left{
 	background-position: 0 -60px;
 }
 
-#arrow-right {
+#arrow-right{
 	background-position: 30px -90px;
 	right: 0;
 	top: 25px;
 }
 
-#arrow-right.disabled {
+#arrow-right{
 	background-position: 0 -90px;
 }
 
