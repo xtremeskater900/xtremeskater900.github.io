@@ -463,6 +463,18 @@ body {
 		color: white;
 	}
 
+	#slide-Rodney {
+	background-color: #00ced1;
+	color: #e4e6e5;
+	padding-top: 90px;
+}
+
+#slide-Rodney i {
+		font-size: 80px;
+		color: white;
+	}
+
+
 
 #slide-5 {
 	background-color: #f39c12;
