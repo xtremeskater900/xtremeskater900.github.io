@@ -39,7 +39,7 @@ html, body {
 }
 
 body {
-	background-color: #00ced1;
+	background-color: #474747;
 	font-family: "Titillium Web", sans-serif;
 	font-weight: normal;
 	overflow-x: hidden;
@@ -303,6 +303,10 @@ body {
 	#home-row-2 {
 		font-size: 16px;
 	}
+}
+
+#rodney {
+	background-color: #00703c;
 }
 
 #slide-2 {
