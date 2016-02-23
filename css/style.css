@@ -304,10 +304,16 @@ body {
 		font-size: 16px;
 	}
 }
-
+#Tony {
+	background-color: #bd00ff;
+}
+#Rob {
+	background-color: #4bfff6;
+}
 #Rodney {
 	background-color: #00703c;
 }
+
 
 #slide-2 {
 	background-color: #1abc9c;
