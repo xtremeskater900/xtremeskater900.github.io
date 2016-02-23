@@ -577,66 +577,6 @@ body {
 	z-index: 999;
 }
 
-#arrows {
-	bottom: 10%;
-	height: 80px;
-	position: fixed;
-	right: 10%;
-	width: 80px;
-	z-index: 1000;
-}
-
-#arrows div {
-	background-image: url('../images/website-arrows.png');
-	cursor: pointer;
-	height: 30px;
-	position: absolute;
-	width: 30px;
-}
-
-#arrows div{
-	cursor: default;
-}
-
-#arrow-up{
-	background-position: 30px 0;
-	left: 25px;
-	top: 0;
-}
-
-#arrow-up{
-	background-position: 0 0;
-}
-
-#arrow-down{
-	background-position: 30px -30px;
-	left: 25px;
-	bottom: 0;
-}
-
-#arrow-down{
-	background-position: 0 -30px;
-}
-
-#arrow-left{
-	background-position: 30px -60px;
-	left: 0;
-	top: 25px;
-}
-
-#arrow-left{
-	background-position: 0 -60px;
-}
-
-#arrow-right{
-	background-position: 30px -90px;
-	right: 0;
-	top: 25px;
-}
-
-#arrow-right{
-	background-position: 0 -90px;
-}
 
 .navigation-slide {
 	cursor: pointer;
