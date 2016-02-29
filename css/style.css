@@ -303,6 +303,10 @@ body {
 	#home-row-2 {
 		font-size: 16px;
 	}
+	#copyright {
+		background-color: #bd02ff;
+		text-align: right;
+	}
 }
 #slide-tony {
 	background-color: #bd02ff;
