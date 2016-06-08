@@ -1,0 +1,221 @@
+body {
+
+	background-image: url("http://media.tumblr.com/d9b947c4d9ea3bcd311101fbfab6c91a/tumblr_inline_mr7u2jrI171qz4rgp.gif");
+    background-size: cover;
+    background-position: center center;
+	font-family: Helvetica;
+
+}
+
+#info{
+    background:white;
+    width:;
+    height:;
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+	color: #fff;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+#infotitle{
+    color:#000000;
+}
+
+.button {
+	border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #abc;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #383838;
+    color: #abc;
+  }
+
+#play{
+    position:absolute;
+    left:500px;
+    top:600px;
+}
+
+#gameinfo{
+    background:white;
+
+
+}
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+	background-image: url("background/gamemap.jpg");
+    background-size: 1460px;
+    background-repeat: no-repeat;
+	background-position: top center;
+    background-color: black;
+    width:1460px;
+}
+
+
+
+
+#follower{
+    position:absolute;
+    width:20px;
+    height:20px;
+    margin-left:600px;
+    margin-top:350px;
+
+}
+
+.enemies{
+    background-image:url("characters/chicken1.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width:60px;
+    height:40px;
+    position: absolute;
+}
+
+#chicken1{
+    top: 235px;
+    left: 825px;
+}
+
+#chicken2{
+    top: 20px;
+    left: 465px;
+}
+
+#chicken3{
+    top: 200px;
+    left: 45px;
+}
+
+#tree {
+    background-color: rgba(255,255,255,0.0);
+    position:absolute;
+    height: 113px;
+    width: 160px;
+    left: 422px;
+    top: 405px;
+}
+
+#tree1 {
+    background-color: rgba(255,255,255,0.0);
+    position:absolute;
+    height: 78px;
+    width: 50px;
+    left: 475px;
+    top: 519px;
+}
+
+#hedge {
+    background-color: rgba(255,255,255,0.0);
+    position:absolute;
+    height: 105px;
+    width: 110px;
+    left: 848px;
+    top: 578px;
+}
+
+#stump {
+    background-color: rgba(255,255,255,0.0);
+    position:absolute;
+    height: 85px;
+    width: 40px;
+    left: 371px;
+    top: 173px;
+}
+
+.health {
+  position: absolute;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  top: 20px;
+  border:solid black 5px;
+}
+
+#health1 {
+  position: absolute;
+  left:20px;
+}
+
+#health2 {
+  position: absolute;
+  left:75px;
+}
+
+#health3 {
+  position: absolute;
+  left:130px;
+}
+
+#health4 {
+  position: absolute;
+  left:185px;
+}
+
+#health5 {
+  position: absolute;
+  left:240px;
+}
+
+
+
+
+
+span.crosshair {
+    cursor: crosshair;
+}
+
+/*#map {
+    background-color: rgba(255,255,255,0.5);
+    height: 820px;
+    width: 1195px;
+    position: absolute;
+    margin-left: 115px;
+    margin-top: -10px;
+}*/
+
+#gameover {
+    background-image: url("http://vignette4.wikia.nocookie.net/metroid/images/a/ae/MOM_Game_Over_Continue_screen.png/revision/latest?cb=20130613165734");
+    background-size: 1500px
+}
+
+#restart {
+  border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 350px;
+    font-size: 5em;
+    text-decoration: none;
+    box-shadow: 15px 15px 80px #555;
+}
+
+#giveup {
+  border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 350px;
+    font-size: 5em;
+    text-decoration: none;
+    box-shadow: 15px 15px 80px #555;
+}
+#giveupbody {
+    background-image: url("http://www.muylinux.com/wp-content/uploads/2014/01/mljuegos0.png");
+    background-size: 150px
+}
